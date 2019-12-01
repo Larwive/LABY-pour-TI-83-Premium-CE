@@ -7,13 +7,19 @@ Les maps sont générées aléatoirement.
 Contactez-moi si vous rencontrez des bugs ou avez des suggestions d'améliorations. De futures améliorations sont prévues.  
 
 Explication des options du menu :  
-Jouer : pas besoin de précisions 
-Règles : rappelle les règles et la version 
-Classement : donne les 10 meilleurs scores avec les pseudos associés 
-Débugger : à lancer impérativement lors de la première utilisation et quand un message d'erreur apparaît (hormis si vous aviez appuyé sur "On") 
-Commandes : affiche les touches avec leur utilité 
-Effacer scores : à lancer impérativement lors de la première utilisation 
-Quitter : pas besoin de précision  
+Jouer : pas besoin de précisions
+
+Règles : rappelle les règles et la version
+
+Classement : donne les 10 meilleurs scores avec les pseudos associés
+
+Débugger : à lancer impérativement lors de la première utilisation et quand un message d'erreur apparaît (hormis si vous aviez appuyé sur "On")
+
+Commandes : affiche les touches avec leur utilité
+
+Effacer scores : à lancer impérativement lors de la première utilisation
+
+Quitter : pas besoin de précision
 
 Version actuelle : 2.8 (01/12/2019) Changements :  
 -Plus de place pour afficher les noms des joueurs 
