@@ -21,7 +21,11 @@ Effacer scores : à lancer impérativement lors de la première utilisation
 
 Quitter : pas besoin de précision
 
-Version actuelle : 2.8 (01/12/2019) Changements :  
+Version actuelle : 2.81 (02/12/2019)
+Correction de bug :
+-Le nombre de mouvements de mouvements effectués n'était pas réinitialisé lors ddu recalcul de la map.
+
+2.8 (01/12/2019) Changements :  
 -Plus de place pour afficher les noms des joueurs 
 -Ajout d'un deuxième classement : celui du nombre de mouvements effectués 
 Résolution de bug: -oubli d'un Label   
