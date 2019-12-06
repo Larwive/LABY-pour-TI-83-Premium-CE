@@ -21,9 +21,16 @@ Effacer scores : à lancer impérativement lors de la première utilisation
 
 Quitter : pas besoin de précision
 
-Version actuelle : 2.81 (02/12/2019)
+Version actuelle : 2.95 (06/12/2019)
+-Réarrangement de l'affichage des résultats.
+-Ajout d'un troisième classement : celui du temps utilisé pour arriver au =.
+-Les fonctions, axes, graphes et arrières-plans ne parasiteront plus l'affichage des classements.
 Correction de bug :
--Le nombre de mouvements de mouvements effectués n'était pas réinitialisé lors ddu recalcul de la map.
+-Le nombre de pas augmentait de 1 lorsqu'on appuyait sur "annul" pour abandonner.
+
+2.81 (02/12/2019)
+Correction de bug :
+-Le nombre de mouvements de mouvements effectués n'était pas réinitialisé lors du recalcul de la map.
 
 2.8 (01/12/2019) Changements :  
 -Plus de place pour afficher les noms des joueurs 
