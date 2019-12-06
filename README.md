@@ -22,10 +22,15 @@ Effacer scores : à lancer impérativement lors de la première utilisation
 Quitter : pas besoin de précision
 
 Version actuelle : 2.95 (06/12/2019)
+
 -Réarrangement de l'affichage des résultats.
+
 -Ajout d'un troisième classement : celui du temps utilisé pour arriver au =.
+
 -Les fonctions, axes, graphes et arrières-plans ne parasiteront plus l'affichage des classements.
+
 Correction de bug :
+
 -Le nombre de pas augmentait de 1 lorsqu'on appuyait sur "annul" pour abandonner.
 
 2.81 (02/12/2019)
