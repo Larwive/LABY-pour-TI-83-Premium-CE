@@ -6,13 +6,21 @@ Les maps sont générées aléatoirement.
 Contactez-moi si vous rencontrez des bugs ou avez des suggestions d'améliorations. De futures améliorations sont prévues.
 
 Explication des options du menu :
+
 -Jouer : lance la génération aléatoire de la map puis la partie commence
+
 -Règles : rappelle les règles et la version actuelle
+
 -Classement : donne les 12 meilleurs scores avec les pseudos associés
+
 -Initialiser : à lancer la première fois que vous jouer.
+
 -Débugger : à lancer quand un message d'erreur apparaît (hormis si vous aviez appuyé sur "On")
+
 -Commandes : affiche les touches avec leur utilité
+
 -Effacer scores : efface les scores
+
 -Quitter : fait quitter le jeu
 
 Version actuelle : 3.2 (09/02/2020)
