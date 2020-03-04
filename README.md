@@ -1,12 +1,9 @@
-# LABY
-Jeu pour TI-83 Premium CE
-
 Vous contrôlez un + et devez trouver le chemin vers le =. Les trous (représentés par des *) vous téléporteront au début à chaque rencontre et sont invisibles avant.
 Les maps sont générées aléatoirement.
+Le mode multijoueur vous permet de jouer à 2 sur deux calculatrices reliées par un câble. Vous créez alors le labyrinthe dont l'autre devra trouver la sortie.
 Contactez-moi si vous rencontrez des bugs ou avez des suggestions d'améliorations. De futures améliorations sont prévues.
 
 Explication des options du menu :
-
 -Jouer : lance la génération aléatoire de la map puis la partie commence
 
 -Règles : rappelle les règles et la version actuelle
@@ -21,9 +18,20 @@ Explication des options du menu :
 
 -Effacer scores : efface les scores
 
+-Multijoueur : vous permet de jouer au mode multijoueur
+
 -Quitter : fait quitter le jeu
 
-Version actuelle : 3.2 (09/02/2020)
+Version actuelle : 3.5 (04/03/2020)
+-Grande optimisation de la durée de génération des labyrinthes aléatoires.
+-Indique le nombre maximal de trous en mode solo juste après la génération du labyrinthe en solo.
+-Modification du menu "Règles".
+-Ajout du multijoueur.
+-Optimisation de l'affichage du classement.
+-Ajustement des menus "Initialiser", "Effacer scores" et "Débugger".
+
+
+3.2 (09/02/2020)
 -Suppression de la fonctionnalité qui garde les scores même après un effacement de la RAM : ça ne fonctionne pas de manière générale.
 -Préparation de la prochaine fonctionnalité...
 
