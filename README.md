@@ -4,15 +4,22 @@ Le mode multijoueur vous permet de jouer à 2 sur deux calculatrices reliées pa
 Contactez-moi si vous rencontrez des bugs ou avez des suggestions d'améliorations. De futures améliorations sont prévues.
 
 Explication des options du menu :
-
- -Jouer : lance la génération aléatoire de la map puis la partie commence
+-Jouer : lance la génération aléatoire de la map puis la partie commence
+ 
  -Règles : rappelle les règles et la version actuelle
+ 
  -Classement : donne les 12 meilleurs scores avec les pseudos associés
+ 
  -Initialiser : à lancer la première fois que vous jouer.
+ 
  -Débugger : à lancer quand un message d'erreur apparaît (hormis si vous aviez appuyé sur "On")
+ 
  -Commandes : affiche les touches avec leur utilité
+ 
  -Effacer scores : efface les scores
+ 
  -Multijoueur : vous permet de jouer au mode multijoueur
+ 
  -Quitter : fait quitter le jeu
 
 Version actuelle : 3.5 (04/03/2020)
