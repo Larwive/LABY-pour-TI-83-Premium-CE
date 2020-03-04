@@ -5,38 +5,24 @@ Contactez-moi si vous rencontrez des bugs ou avez des suggestions d'amélioratio
 
 Explication des options du menu :
 
--Jouer : lance la génération aléatoire de la map puis la partie commence
-
--Règles : rappelle les règles et la version actuelle
-
--Classement : donne les 12 meilleurs scores avec les pseudos associés
-
--Initialiser : à lancer la première fois que vous jouer.
-
--Débugger : à lancer quand un message d'erreur apparaît (hormis si vous aviez appuyé sur "On")
-
--Commandes : affiche les touches avec leur utilité
-
--Effacer scores : efface les scores
-
--Multijoueur : vous permet de jouer au mode multijoueur
-
--Quitter : fait quitter le jeu
+ -Jouer : lance la génération aléatoire de la map puis la partie commence
+ -Règles : rappelle les règles et la version actuelle
+ -Classement : donne les 12 meilleurs scores avec les pseudos associés
+ -Initialiser : à lancer la première fois que vous jouer.
+ -Débugger : à lancer quand un message d'erreur apparaît (hormis si vous aviez appuyé sur "On")
+ -Commandes : affiche les touches avec leur utilité
+ -Effacer scores : efface les scores
+ -Multijoueur : vous permet de jouer au mode multijoueur
+ -Quitter : fait quitter le jeu
 
 Version actuelle : 3.5 (04/03/2020)
 
--Grande optimisation de la durée de génération des labyrinthes aléatoires.
-
-
--Indique le nombre maximal de trous en mode solo juste après la génération du labyrinthe en solo.
-
--Modification du menu "Règles".
-
--Ajout du multijoueur.
-
--Optimisation de l'affichage du classement.
-
--Ajustement des menus "Initialiser", "Effacer scores" et "Débugger".
+ -Grande optimisation de la durée de génération des labyrinthes aléatoires.
+ -Indique le nombre maximal de trous en mode solo juste après la génération du labyrinthe en solo.
+ -Modification du menu "Règles".
+ -Ajout du multijoueur.
+ -Optimisation de l'affichage du classement.
+ -Ajustement des menus "Initialiser", "Effacer scores" et "Débugger".
 
 
 3.2 (09/02/2020)
